@@ -1,9 +1,10 @@
 # cryptography
 A place to record my knowledge associated with cryptography
 
+## Asymmetric vs symmetric
 Acrostic memory strategy used in the Security+ (Only need to memorise one to pass)
 
-Asymmetric vs symmetric
+
 Asymmetric requires the same key to unlock
 
 ADDER
@@ -22,8 +23,8 @@ RC4
 AES
 DES
 
-Bit sizes - Never memorised
+## Bit sizes - Never memorised
 
-Public keys and private keys
+## Public keys and private keys
 
-PKI (Private key infrastructure)
+## PKI (Private key infrastructure)
