@@ -27,3 +27,8 @@ DES
 ## Public keys and private keys
 
 ## PKI (Private key infrastructure)
+
+## Stegonography
+Hiding data or information within digital media i.e. audio, video, text, image
+Typically associated with imagery
+
