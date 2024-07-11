@@ -4,7 +4,6 @@ A place to record my knowledge associated with cryptography
 ## Asymmetric vs symmetric
 Acrostic memory strategy used in the Security+ (Only need to memorise one to pass)
 
-
 Asymmetric requires the same key to unlock
 
 ADDER
