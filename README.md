@@ -21,10 +21,15 @@ RSA
 Symmetric requires 2 different keys to unlock
 
 STRAD
+<br>
 Symmetric
+<br>
 Twofish/blowfish
+<br>
 RC4
+<br>
 AES
+<br>
 DES
 
 ## Bit sizes - Never memorised
