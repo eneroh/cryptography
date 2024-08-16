@@ -1,44 +1,46 @@
 # cryptography
+
+## Summary
 A place to record my knowledge associated with cryptography
 
-## Asymmetric vs symmetric
+### Asymmetric vs symmetric
 Acrostic memory strategy used in the Security+ (Only need to memorise one to pass)
 
-Asymmetric requires the same key to unlock
+*Asymmetric requires the same key to unlock*
 
-ADDER
+**ADDER**
 <br>
-Asymmetric
+**A**symmetric
 <br>
-Diffie-hellman
+**D**iffie-hellman
 <br>
-DSA
+**D**SA
 <br>
-ECC
+**E**CC
 <br>
-RSA
+**R**SA
 
-Symmetric requires 2 different keys to unlock
+*Symmetric requires 2 different keys to unlock*
 
-STRAD
+**STRAD**
 <br>
-Symmetric
+**S**ymmetric
 <br>
-Twofish/blowfish
+**T**wofish/blowfish
 <br>
-RC4
+**R**C4
 <br>
-AES
+**A**ES
 <br>
-DES
+**D**ES
 
-## Bit sizes - Never memorised
+### Bit sizes - Never memorised
 
-## Public keys and private keys
+### Public keys and private keys
 
-## PKI (Private key infrastructure)
+### PKI (Private key infrastructure)
 
-## Stegonography
+### Stegonography
 Hiding data or information within digital media i.e. audio, video, text, image
 Typically associated with imagery
 
